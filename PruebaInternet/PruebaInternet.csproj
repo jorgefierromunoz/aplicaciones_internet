@@ -164,8 +164,15 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+<<<<<<< HEAD
     <Compile Include="Controllers\MuñozRobertoController.cs" />
+=======
+<<<<<<< HEAD
+    <Compile Include="Controllers\RubenLPController.cs" />
+=======
+>>>>>>> 9e5a5a5284166dc3cf3fb21b5b3c864a38931f32
     <Compile Include="Controllers\PatricioAguirreController.cs" />
+>>>>>>> 9bbf5d3f600017f5142a65bc00571850c5a28c67
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
