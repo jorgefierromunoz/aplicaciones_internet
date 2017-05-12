@@ -167,6 +167,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PatricioAguirreController.cs" />
     <Compile Include="Controllers\RicardoSommerController.cs" />
+    <Compile Include="Controllers\VamessaPinoController.cs" />
     <Compile Include="Controllers\VasquezController.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
