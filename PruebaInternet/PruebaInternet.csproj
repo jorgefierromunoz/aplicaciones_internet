@@ -167,6 +167,7 @@
     <Compile Include="Controllers\DanielNeiraController.cs" />
     <Compile Include="Controllers\FelipeMeloController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MarjorieAcevedoController.cs" />
     <Compile Include="Controllers\Matt_Aravena_qloController.cs" />
     <Compile Include="Controllers\MaximilianoJuradoController.cs" />
     <Compile Include="Controllers\NicolasAguileraController.cs" />
