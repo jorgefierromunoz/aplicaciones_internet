@@ -164,6 +164,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\BenjaminValenzuelaController.cs" />
+    <Compile Include="Controllers\DanielNavarreteController.cs" />
     <Compile Include="Controllers\DanielNeiraController.cs" />
     <Compile Include="Controllers\FelipeMeloController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
